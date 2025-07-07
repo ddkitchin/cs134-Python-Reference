@@ -1,25 +1,43 @@
 name: Update README
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight
-  workflow_dispatch:     # Manual trigger button
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:  # This will trigger when you add files
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Update README with current date
+    - name: Update README with Python files
       run: |
-        echo "# My Project" > README.md
+        echo "# My Python Projects" > README.md
+        echo "" >> README.md
+        echo "## Python Files:" >> README.md
+        echo "" >> README.md
+        
+        # List all Python files
+        for file in *.py; do
+          if [ -f "$file" ]; then
+            echo "- [$file]($file)" >> README.md
+          fi
+        done
+        
+        # Add subdirectories if needed
+        find . -name "*.py" -not -path "./.git/*" | while read file; do
+          if [[ "$file" != "./"*.py ]]; then
+            echo "- [$file]($file)" >> README.md
+          fi
+        done
+        
         echo "" >> README.md
         echo "Last updated: $(date)" >> README.md
-        echo "" >> README.md
-        echo "This README was automatically updated!" >> README.md
+        
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
-        git commit -m "Auto-update README" || exit 0
+        git commit -m "Auto-update README with Python files" || exit 0
         git push
