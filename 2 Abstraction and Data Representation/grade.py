@@ -1,7 +1,7 @@
-#@copyright Deborah Kitchin
+# @copyright Deborah Kitchin
 
 def main() -> None:
-    #set real variable score to the user input
+    # set real variable score to the user input
     score = float(input("Enter score: "))
 
     if score >= 59.5:
