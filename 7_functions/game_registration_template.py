@@ -1,8 +1,8 @@
 # @copyright Deborah Kitchin
 
 def main() -> None:
-    name = get_Name()
-    address = get_Address()
+    name = get_name()
+    address = get_address()
     player_name = get_player_name()
     privacy = get_privacy()
     print(name)
@@ -34,7 +34,7 @@ def valid_last_name(first: str, last: str) -> str:
     return "FIX ME"
 
 
-def get_Name() -> str:
+def get_name() -> str:
     # @return First Middle and Last Name Validated.
     # There should be a space after the first name.
 
@@ -75,7 +75,7 @@ def valid_zipcode(zipcode: str) -> str:
     return "FIX ME"
 
 
-def get_Address() -> str:
+def get_address() -> str:
     # @return valid "street, city state zipcode"
 
     street = "FIX ME"  # use valid_street (street) similar to how the first name is done above.
