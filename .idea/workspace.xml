@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="rename">
-      <change afterPath="$PROJECT_DIR$/9_files_and_string/digital_dreams.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files_and_string/read_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files_and_string/read_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files_and_string/write_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fixer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cs134-Python-Reference.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="chpater 9 write">
+      <change afterPath="$PROJECT_DIR$/9_files_and_string/made_up_fields.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_files_and_string/video_games_fata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_files_and_string/with.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_types/Lists/lists_day_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_types/Lists/lists_day_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_types/Lists/lists_day_3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,19 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lists_day_2.executor": "Run",
-    "Python.read_file.executor": "Run",
-    "Python.read_write.executor": "Run",
-    "Python.write_file.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/debbie/PycharmProjects/cs134-Python-Reference/9_files_and_string",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lists_day_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_write.executor&quot;: &quot;Run&quot;,
+    &quot;Python.with.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/debbie/PycharmProjects/cs134-Python-Reference/9_files_and_string&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/9_files_and_string" />
@@ -102,12 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1752691861275</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chpater 9 write">
+      <option name="closed" value="true" />
+      <created>1752710395358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752710395358</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renamed branching" />
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="chpater 9 write" />
+    <option name="LAST_COMMIT_MESSAGE" value="chpater 9 write" />
   </component>
 </project>
