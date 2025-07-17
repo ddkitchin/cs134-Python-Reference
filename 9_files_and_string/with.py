@@ -1,8 +1,9 @@
 # @copyright Deborah Kitchin
 import csv
 
-DEFAULT_INPUT_FILE= "video_games_fata.csv"
-DEFAULT_OUTPUT_FILE="output.txt"
+DEFAULT_INPUT_FILE = "video_games_fata.csv"
+#DEFAULT_INPUT_FILE = "made_up_fields.csv"
+DEFAULT_OUTPUT_FILE = "output.txt"
 
 def main() -> None:
 
@@ -14,16 +15,17 @@ def main() -> None:
     if output_filename == "":
         output_filename = DEFAULT_OUTPUT_FILE
 
-    ''''# with read
+    # with read
     with open(input_filename, 'r') as csvfile:
         input_file = csv.reader(csvfile, delimiter=',')
+        print(input_file)
         for line in input_file:
             #print list
             print(line)
             # print each field on the line
             #for field in line:
             #    print(field,end="")
-            #print()'''
+            #print()
 
 
     """ With format print
@@ -49,16 +51,14 @@ def main() -> None:
                 formatted_line += field.ljust(20)
             print(formatted_line)"""
 
-    # write to file
+    '''# write items to a file
     row1 = ['100', '50', '29']
     row2 = ['76', '32', '330']
 
     with open(output_filename, 'w', newline='') as csvfile:
         grades_writer = csv.writer(csvfile)
-
         grades_writer.writerow(row1)
-
-        grades_writer.writerows([row1, row2])
+        grades_writer.writerows([row1, row2])'''
 
 
 if __name__ == "__main__":

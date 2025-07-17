@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="chpater 9 write">
-      <change afterPath="$PROJECT_DIR$/9_files_and_string/made_up_fields.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files_and_string/video_games_fata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files_and_string/with.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_files_and_string/with.py" beforeDir="false" afterPath="$PROJECT_DIR$/9_files_and_string/with.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752710395358</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chpater 9 write">
+      <option name="closed" value="true" />
+      <created>1752761306248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752761306248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
