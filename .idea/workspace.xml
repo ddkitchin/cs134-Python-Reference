@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="chpater 9 write" />
+    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="added favorites">
+      <change afterPath="$PROJECT_DIR$/3_introduction_to_python/syntax_errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_branching/decisions_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_branching/branching_examples.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,22 +47,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lists_day_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read_file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read_write.executor&quot;: &quot;Run&quot;,
-    &quot;Python.with.executor&quot;: &quot;Run&quot;,
-    &quot;Python.write_file.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/debbie/PycharmProjects/cs134-Python-Reference/9_files_and_string&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lists_day_2.executor": "Run",
+    "Python.read_file.executor": "Run",
+    "Python.read_write.executor": "Run",
+    "Python.syntax_errors.executor": "Run",
+    "Python.with.executor": "Run",
+    "Python.write_file.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/debbie/PycharmProjects/cs134-Python-Reference/9_files_and_string",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9_files_and_string" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/9_files_and_string" />
     </key>
   </component>
@@ -117,13 +125,41 @@
       <option name="project" value="LOCAL" />
       <updated>1752762235164</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added favorites">
+      <option name="closed" value="true" />
+      <created>1752763750583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752763750583</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added favorites">
+      <option name="closed" value="true" />
+      <created>1752763787100</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752763787100</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renamed branching" />
     <MESSAGE value="rename" />
     <MESSAGE value="chpater 9 write" />
-    <option name="LAST_COMMIT_MESSAGE" value="chpater 9 write" />
+    <MESSAGE value="added favorites" />
+    <option name="LAST_COMMIT_MESSAGE" value="added favorites" />
   </component>
 </project>
