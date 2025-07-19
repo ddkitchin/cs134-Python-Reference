@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="added favorites">
-      <change afterPath="$PROJECT_DIR$/3_introduction_to_python/syntax_errors.py" afterDir="false" />
+    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="added syntax_errors">
+      <change afterPath="$PROJECT_DIR$/4_variables_and_expressions/variables_and_expression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_branching/decisions_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_branching/branching_examples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Python.read_file.executor": "Run",
     "Python.read_write.executor": "Run",
     "Python.syntax_errors.executor": "Run",
+    "Python.variables_and_expression.executor": "Run",
     "Python.with.executor": "Run",
     "Python.write_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,6 +67,7 @@
       <recent name="$PROJECT_DIR$/9_files_and_string" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4_variables_and_expressions" />
       <recent name="$PROJECT_DIR$/9_files_and_string" />
     </key>
   </component>
@@ -141,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752763787100</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added syntax_errors">
+      <option name="closed" value="true" />
+      <created>1752880080348</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752880080348</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added syntax_errors">
+      <option name="closed" value="true" />
+      <created>1752882544415</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752882544415</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +177,7 @@
     <MESSAGE value="rename" />
     <MESSAGE value="chpater 9 write" />
     <MESSAGE value="added favorites" />
-    <option name="LAST_COMMIT_MESSAGE" value="added favorites" />
+    <MESSAGE value="added syntax_errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="added syntax_errors" />
   </component>
 </project>
