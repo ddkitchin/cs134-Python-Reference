@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="added syntax_errors">
-      <change afterPath="$PROJECT_DIR$/4_variables_and_expressions/variables_and_expression.py" afterDir="false" />
+    <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="testers">
+      <change afterPath="$PROJECT_DIR$/7_functions/ir_algorithm_tester.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python._pydev_execfile.executor": "Run",
+    "Python.all_different_tester.executor": "Run",
+    "Python.game_registration_privacy_tester.executor": "Run",
+    "Python.hand_check.executor": "Run",
+    "Python.ir_algorithm_tester.executor": "Run",
     "Python.lists_day_2.executor": "Run",
     "Python.read_file.executor": "Run",
     "Python.read_write.executor": "Run",
@@ -58,12 +63,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/debbie/PycharmProjects/cs134-Python-Reference/9_files_and_string",
+    "last_opened_file_path": "/Users/debbie/PycharmProjects/cs134-Python-Reference/7_functions",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/7_functions" />
       <recent name="$PROJECT_DIR$/9_files_and_string" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -158,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752882544415</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added variables and expression">
+      <option name="closed" value="true" />
+      <created>1752886561993</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752886561993</updated>
+    </task>
+    <task id="LOCAL-00011" summary="testers">
+      <option name="closed" value="true" />
+      <created>1752968878464</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752968878464</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +200,8 @@
     <MESSAGE value="chpater 9 write" />
     <MESSAGE value="added favorites" />
     <MESSAGE value="added syntax_errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="added syntax_errors" />
+    <MESSAGE value="added variables and expression" />
+    <MESSAGE value="testers" />
+    <option name="LAST_COMMIT_MESSAGE" value="testers" />
   </component>
 </project>
