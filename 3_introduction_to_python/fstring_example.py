@@ -7,6 +7,8 @@ import math
 # @copyright Deborah Kitchin
 
 def main() -> None:
+
+    """fstring demonstation of various formating"""
     # simple fstring versus book demo
     print('pi={:.2f}'.format(math.pi))  # book formatting
     print(f'pi={math.pi:.2f}')  # formatting we will use - fstring

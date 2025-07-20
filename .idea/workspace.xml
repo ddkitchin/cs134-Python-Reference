@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4341c93-bc75-4761-9a24-fe8752b7e779" name="Changes" comment="testers">
-      <change afterPath="$PROJECT_DIR$/7_functions/ir_algorithm_tester.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_introduction_to_python/fstring_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_introduction_to_python/fstring_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_functions/all_different.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_functions/all_different.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_functions/if_algorithm_tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_functions/if_algorithm_tester.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +51,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python._pydev_execfile.executor": "Run",
+    "Python.all_different.executor": "Run",
     "Python.all_different_tester.executor": "Run",
     "Python.game_registration_privacy_tester.executor": "Run",
     "Python.hand_check.executor": "Run",
+    "Python.if_algorithm_tester.executor": "Run",
     "Python.ir_algorithm_tester.executor": "Run",
     "Python.lists_day_2.executor": "Run",
     "Python.read_file.executor": "Run",
@@ -180,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752968878464</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="testers">
+      <option name="closed" value="true" />
+      <created>1753025329701</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753025329701</updated>
+    </task>
+    <task id="LOCAL-00013" summary="testers">
+      <option name="closed" value="true" />
+      <created>1753026082896</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1753026082896</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

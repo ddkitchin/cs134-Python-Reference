@@ -20,7 +20,7 @@ def main() -> None:
     tester(3.4)
 
 def tester(month:int) -> None:
-    ## place student code here
+    ## place code here
 
     # check if integer is passed
     #if not isinstance(month,int): # not pythonic
